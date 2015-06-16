@@ -1,6 +1,6 @@
 ---
 
-title: "run analysis.R Cookbook"
+title: "run_analysis.R"
 
 author: "MMGLEDHILL"
 
@@ -16,7 +16,7 @@ output:
 
 ## Project Description
 Demonstrate good data scientist skills by being able identify relevant info and organize into a tidy dataset. 
-Generate a data set where each column only has one variable; and each row is one observation, and each table has only one observational unit (
+Generate a data set where each column only has one variable; and each row is one observation, and each table has only one observational unit
 
 Specifically:
 1) Join the training and test data sets from the accelerometers and filter for mean and std measures for each feature.
